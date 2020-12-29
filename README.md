@@ -1,2 +1,2 @@
-# first-pages
-🃏 A Markdown Page Creator for First Robotics Statistics (FTC &amp; FRC)
+# first-cards
+🃏 A Markdown Card Creator for First Robotics Statistics (FTC &amp; FRC)
